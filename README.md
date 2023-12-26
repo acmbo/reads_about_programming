@@ -7,3 +7,8 @@ great resources for reading
 
 
 ## Books
+- The pragmatic programmer
+
+## Podcast
+- Soft Skills Engineering
+- Codecursive
