@@ -6,7 +6,10 @@
 -  	What Every Developer Should Know About GPU Computing - https://codeconfessions.substack.com/p/gpu-computing
 -  	Building and operating a pretty big storage system called S3 - https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
 -  	Meta reveals their serverless platform processing trillions of function calls a day - https://read.engineerscodex.com/p/meta-xfaas-serverless-functions-explained
+-   A War Story About a Python, a Fork, a Cow, and a Bug - 	https://codeconfessions.substack.com/p/a-war-story-involving-a-python-a
 
 ### Intersting blogs
 
 - https://leaddev.com/
+- https://samwho.dev/blog/
+- https://danluu.com/
