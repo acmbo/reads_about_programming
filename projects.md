@@ -2,7 +2,7 @@
 
 #### Own ideas
 
-- own version controll: git. [see](https://wyag.thb.lt/), [also this](https://maryrosecook.com/blog/post/git-from-the-inside-out, and [this](https://maryrosecook.com/blog/post/git-in-six-hundred-words)
+- own version controll: git. [see](https://wyag.thb.lt/), [also this](https://maryrosecook.com/blog/post/git-from-the-inside-out), and [this](https://maryrosecook.com/blog/post/git-in-six-hundred-words)
   
 #### From Austinhenley
 - Text editor
