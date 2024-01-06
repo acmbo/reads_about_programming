@@ -8,3 +8,5 @@
 - https://github.com/ossu/computer-science
 - https://www.udemy.com/course/virtual-machine/
 - https://github.com/dbartolini/data-oriented-design
+- Database Modelling - https://www.youtube.com/watch?v=SvwLb3qIUwI&list=PLd2HsjGroB7GKiTzEzbfAyHRTRJGTwUFH
+
