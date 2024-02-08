@@ -9,6 +9,13 @@
 -   A War Story About a Python, a Fork, a Cow, and a Bug - 	https://codeconfessions.substack.com/p/a-war-story-involving-a-python-a
 -   Vector Networks - https://alexharri.com/blog/vector-networks
 -   slow-to-simd - https://sourcegraph.com/blog/slow-to-simd
+-   Collision detection - https://www.jeffreythompson.org/collision-detection/
+-   https://blog.beyond-disciplines.com/posts/20230406_creating-grasshopper-csharp-cpp-project/
+-   https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=012ef03d0f951092b8645b69aebdbce900ac03e4
+-   http://techrights.org/wp-content/uploads/2022/06/2014130646.pdf
+-   https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/
+-   http://stations.albertguillaumes.cat/
+  
 ### Intersting blogs
 
 - https://leaddev.com/
